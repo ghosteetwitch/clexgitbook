@@ -84,6 +84,7 @@
 1. Boot from USB.
 2. Select **Custom Install**.
 3. Delete old partitions (C:, Recovery, System).
+4. Decline cortana, and personalized advertisements ect.
 
 ---
 
@@ -91,6 +92,5 @@
 
 - Motherboard site → **chipset, LAN, audio**.
 - GPU site → **NVIDIA / AMD / Intel drivers**.
-- Windows Update → **Check for updates** repeatedly.
 
 ---
